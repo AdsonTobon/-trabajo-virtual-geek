@@ -1,0 +1,20 @@
+.success{
+    border: 5px solid green;
+    background-color: rgb(90, 226, 90);
+    color:green;
+    text-align: center;
+}
+
+.error{
+    border: 5px solid red;
+    background-color: rgb(209, 115, 115);
+    color:red;
+    text-align: center;
+}
+
+.warning{
+    border: 5px solid yellow;
+    background-color: rgb(231, 248, 131);
+    color:yellow;
+    text-align: center;
+}

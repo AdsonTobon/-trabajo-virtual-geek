@@ -1,0 +1,8 @@
+.movie {
+    padding: 6px;
+    cursor: pointer;
+    border-bottom: 3px solid #000000; /* grey */
+  }
+  .movie--selected {
+    border-bottom: 3px solid #6489da; /* green */
+  }
